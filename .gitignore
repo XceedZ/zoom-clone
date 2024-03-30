@@ -24,8 +24,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-# Menghapus .local dari aturan di bawah akan memungkinkan .env diunggah
-.env*
+# Hapus atau komentari baris berikut untuk memungkinkan .env diunggah
+#.env*
 
 # vercel
 .vercel
